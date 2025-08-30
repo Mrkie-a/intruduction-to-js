@@ -1,1 +1,2 @@
-console.log.print("hello world");
+console.log.print("Hello World");
+//baka naman gusto mo ayusin
